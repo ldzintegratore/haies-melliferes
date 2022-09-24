@@ -1,4 +1,4 @@
-# Haies mellifères
+# Haies mellifères 🐝
 Petit guide pour composer sa haie mellifère.
 
 _Source : planfor.fr_
@@ -12,20 +12,20 @@ __Légende__ :
 
 Plantes | Floraison | Intérêt Nectar | Intérêt Pollen | Rusticité
  --- | --- | :---: | :---: | :---: 
-Abelia grandiflora | 👃🏻⚪  Jui, Aou, Sep | - | 🔸 | -20°C
+Abelia grandiflora | 👃🏻⚪  Jui, Aoû, Sep | - | 🔸 | -20°C
 Ajonc d'Europe | 👃🏻🟡  Avr, Mai | 🍯 | 🔸 | -17°C
 Alisier torminal | ⚪  Mai, Jui | 🍯 | - | -20°C
 Amandier | ⚪  Jan, Fév, Mar | 🍯 | 🔸 | -2°C
 Amelanchier ovalis | ⚪  Avr, Mai | 🍯 | - | -18°C
 Arbre de Judée | 🟣  Avr, Mai | 🍯 | 🔸 | -18°C
-Arbousier | ⚪  Aou, Sep | 🍯 | - | -12°C
-Argousier | 🟡  Aou, Sep | - | 🔸 | -17°C
-Aubépine | 👃🏻⚪  Mai, Jui, Jui, Aou, Sep, Oct | 🍯 | - | -35°C
+Arbousier | ⚪  Aoû, Sep | 🍯 | - | -12°C
+Argousier | 🟡  Aoû, Sep | - | 🔸 | -17°C
+Aubépine | 👃🏻⚪  Mai, Jui, Jui, Aoû, Sep, Oct | 🍯 | - | -35°C
 Aulne glutineux | ⚪  Fév, Mars, Avr | - | 🔸 | -28°C
 Baguenaudier | 🟡  Mai, Jui, Jui | - | 🔸 | -28°C
 Bouleau blanc | ⚪  Mar, Avr, Mai | - | 🔸 | -40°C
 Bourdaine | 👃🏻⚪  Jui, Jui | 🍯 | 🔸 | -40°C
-Bruyère | 🌈  Mar, Avr, Mai, Jui, Aou, Sep, Oct | 🍯 | 🔸 | -15°C
+Bruyère | 🌈  Mar, Avr, Mai, Jui, Aoû, Sep, Oct | 🍯 | 🔸 | -15°C
 Buis | ⚪  Avr, Mai | 🍯 | 🔸 | -20°C
 Buisson ardent | ⚪  Mai | 🍯 | 🔸 | -20°C
 Camelia | 🌈  Jan, Fév, Oct, Nov, Déc | 🍯 | 🔸 | -10°C
