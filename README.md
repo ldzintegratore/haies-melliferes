@@ -84,8 +84,8 @@ Sureau noir | ⚪  Juin | - | 🔸 | -29°C
 Thym | 👃🏻🟣  Avr, Mai, Jui | 🍯 | - | -15°C
 Tilleul | 👃🏻🟡  Avr, Mai, Jui, Jui | - | 🔸 | -28°C
 Troène commun | 👃🏻⚪  Jui, Jui | 🍯 | 🔸 | -30°C
-Viorne lantane | Mai, Jui | - | 🔸 | -40°C
-Viorne tin | Jan, Fév, Mar, Avr, Nov, Déc | 🍯 | - | -40°C
+Viorne lantane | ⚪  Mai, Jui | - | 🔸 | -40°C
+Viorne tin | ⚪  Jan, Fév, Mar, Avr, Nov, Déc | 🍯 | - | -40°C
 
 
 __Légende__ :  
