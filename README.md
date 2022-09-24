@@ -1,223 +1,86 @@
 # Haies mellifères
 Petit guide pour composer sa haie mellifère.
 
+__Légende__ :  
+👃🏻 : fleur parfumée  
+⚪ : couleur de la fleur  
+🌈 : la fleur existe en différentes couleurs  
+🍯 : plante intéressante pour son nectar  
+🔸 : plante intéressante pour son pollen  
+
 Plantes | Floraison | Intérêt Nectar | Intérêt Pollen | Rusticité
- --- | --- | --- | --- | --- 
-Abelia grandiflora | Jui, Aou, Sep | - | X | -20°C
-Ajonc d'Europe | Avr, Mai | X | X | -17°C
-Alisier torminal 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Amandier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-2°C 	Voir les prix
-Amelanchier ovalis 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-18°C 	Voir les prix
-Arbre de Judée 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-18°C 	Voir les prix
-Arbousier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-12°C 	Voir les prix
-Argousier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-17°C 	Voir les prix
-Aubépine 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-35°C 	Voir les prix
-Aulne glutineux 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Baguenaudier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Bouleau blanc 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C 	Voir les prix
-Bourdaine 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C 	Voir les prix
-Bruyère 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Buis 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Buisson ardent 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Camelia 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-10°C 	Voir les prix
-Cassissier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-25°C 	Voir les prix
-Catalpa 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Cerisier à grappes 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-36°C 	Voir les prix
-Chataignier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Chêne vert 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Chévrefeuille 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Ciste 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Cognassier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-25°C 	Voir les prix
-Cornouiller mâle 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-23°C 	Voir les prix
-Cotoneaster 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Cytise 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C 	Voir les prix
-Eglantier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Eleagnus 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Eleagnus à fruits de goumi rouges 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Epine-vinette, Berberis 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Erable champêtre 	
-J.F.M.A.A.M.J.J.A.S.O.N.D
-			-24°C 	Voir les prix
-Erable plane 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-32°C 	Voir les prix
-Erable sycomore 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-24°C 	Voir les prix
-Eucalyptus 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Frêne à fleur 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Frêne commun 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-32°C 	Voir les prix
-Gattilier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-17°C 	Voir les prix
-Germandrée arbustive 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-10°C 	Voir les prix
-Glycine 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Houx commun 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Kiwi 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-10°C 	Voir les prix
-Laurier cerise 'Otto luyken' 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Laurier sauce 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-26°C 	Voir les prix
-Lavandes 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-10°C 	Voir les prix
-Lierre commun 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-25°C 	Voir les prix
-Lilas, Syringan 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Mahonia bealei 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Merisier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Mimosa 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-5°C 	Voir les prix
-Myrte 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-14°C 	Voir les prix
-Myrtille 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-30°C 	Voir les prix
-Noisetier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Noisetier de Byzance 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Olivier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Paulownia 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Pêcher 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Peuplier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Poirier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Pommier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Prunier 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-20°C 	Voir les prix
-Robinier faux-acacia 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-34°C 	Voir les prix
-Romarin 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-12°C 	Voir les prix
-Saule marsault 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-32°C 	Voir les prix
-Seringat 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C 	Voir les prix
-Serpolet 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Sophora du Japon 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Sureau noir 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-29°C 	Voir les prix
-Thym 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-15°C 	Voir les prix
-Tilleul 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-28°C 	Voir les prix
-Troène commun 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-30°C 	Voir les prix
-Viorne lantane 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C 	Voir les prix
-Viorne tin 	
-J.F.M.A.M.J.J.A.S.O.N.D
-			-40°C
+ --- | --- | :---: | :---: | :---: 
+Abelia grandiflora | 👃🏻⚪  Jui, Aou, Sep | - | 🔸 | -20°C
+Ajonc d'Europe | 👃🏻🟡  Avr, Mai | 🍯 | 🔸 | -17°C
+Alisier torminal | ⚪  Mai, Jui | 🍯 | - | -20°C
+Amandier | ⚪  Jan, Fév, Mar | 🍯 | 🔸 | -2°C
+Amelanchier ovalis | ⚪  Avr, Mai | 🍯 | - | -18°C
+Arbre de Judée | 🟣  Avr, Mai | 🍯 | 🔸 | -18°C
+Arbousier | ⚪  Aou, Sep | 🍯 | - | -12°C
+Argousier | 🟡  Aou, Sep | - | 🔸 | -17°C
+Aubépine | 👃🏻⚪  Mai, Jui, Jui, Aou, Sep, Oct | 🍯 | - | -35°C
+Aulne glutineux | ⚪  Fév, Mars, Avr | - | 🔸 | -28°C
+Baguenaudier | 🟡  Mai, Jui, Jui | - | 🔸 | -28°C
+Bouleau blanc | ⚪  Mar, Avr, Mai | - | 🔸 | -40°C
+Bourdaine | 👃🏻⚪  Jui, Jui | 🍯 | 🔸 | -40°C
+Bruyère | 🌈  Mar, Avr, Mai, Jui, Aou, Sep, Oct | 🍯 | 🔸 | -15°C
+Buis | ⚪  Avr, Mai | 🍯 | 🔸 | -20°C
+Buisson ardent | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Camelia | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -10°C
+Cassissier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -25°C
+Catalpa | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -28°C
+Cerisier à grappes | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -36°C
+Chataignier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Chêne vert | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Chévrefeuille | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Ciste | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Cognassier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -25°C
+Cornouiller mâle | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -23°C
+Cotoneaster | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Cytise | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -40°C
+Eglantier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Eleagnus | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Eleagnus à fruits de goumi rouges | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Epine-vinette, Berberis | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Erable champêtre | J.F.M.A.A.M.J.J.A.S.O.N.D | 🍯 |  | -24°C
+Erable plane | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -32°C
+Erable sycomore | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -24°C
+Eucalyptus | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Frêne à fleur | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Frêne commun | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -32°C
+Gattilier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -17°C
+Germandrée arbustive | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -10°C
+Glycine | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Houx commun | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Kiwi | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -10°C
+Laurier cerise 'Otto luyken' | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Laurier sauce | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -26°C
+Lavandes | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -10°C
+Lierre commun | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -25°C
+Lilas, Syringan | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Mahonia bealei | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Merisier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Mimosa | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -5°C
+Myrte | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -14°C
+Myrtille | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -30°C
+Noisetier | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -28°C
+Noisetier de Byzance | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -20°C
+Olivier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Paulownia | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Pêcher | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -15°C
+Peuplier | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -15°C
+Poirier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Pommier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Prunier | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -20°C
+Robinier faux-acacia | J.F.M.A.M.J.J.A.S.O.N.D |  |  | -34°C
+Romarin | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -12°C
+Saule marsault | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -32°C
+Seringat | J.F.M.A.M.J.J.A.S.O.N.D | 🍯 |  | -40°C
+Serpolet | 👃🏻🟣  Avr, Mai, Jui | 🍯 | - | -15°C
+Sophora du Japon | ⚪  Jui, Aou, Sep | 🍯 | 🔸 | -28°C
+Sureau noir | ⚪  Juin | - | 🔸 | -29°C
+Thym | 👃🏻🟣  Avr, Mai, Jui | 🍯 | - | -15°C
+Tilleul | 👃🏻🟡  Avr, Mai, Jui, Jui | - | 🔸 | -28°C
+Troène commun | 👃🏻⚪  Jui, Jui | 🍯 | 🔸 | -30°C
+Viorne lantane | Mai, Jui | - | 🔸 | -40°C
+Viorne tin | Jan, Fév, Mar, Avr, Nov, Déc | 🍯 | - | -40°C
