@@ -1,7 +1,7 @@
 # Haies mellifères 🐝
 Petit guide pour composer sa haie mellifère.
 
-_Source : planfor.fr_
+_Source : www.planfor.fr_
 
 __Légende__ :  
 👃🏻 : fleur parfumée  
